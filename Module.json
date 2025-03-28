@@ -1,0 +1,20 @@
+{
+  "name": "auto-wall-marching-squares",
+  "title": "Auto Wall (Marching Squares)",
+  "description": "Naively detect #5d5d5d background and create angled walls around the dungeon using Marching Squares.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "authors": [
+    {
+      "name": "Easy",
+      "url": "https://your-website.example"
+    }
+  ],
+  "scripts": [
+    "main.js"
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
